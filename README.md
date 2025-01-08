@@ -1,59 +1,62 @@
-## Hi there 👋 It's me [Rahul K](https://ragavs-profile.netlify.app/)
+# Hi there 👋, I'm Rahul Karthikeyan!
+- 💻 I'm a full-stack developer and machine learning enthusiast.
+- 🔍 Currently exploring cloud technologies and deep learning.
+- 💬 Ask me about AI, web development, or data science.
 
-**Full-Stack Developer | Artificial Intelligence and Data Science Student**  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+### 🚀 Skills & Technologies
+- Programming Languages: Java, Python, JavaScript
+- Frameworks & Libraries: React, Node.js, TensorFlow
+- Tools: Docker, Git, Power BI
 
-- 🎓 **B.Tech Artificial Intelligence And Data Science** — Kongu Engineering College (GPA: 8.59)  
-- 📚 Currently advancing my knowledge in **Data Structures and Algorithms**, while deepening my **Full-Stack Development** skills.  
-- 🤖 Passionate about **AI-driven solutions** that address real-world challenges.  
-- 🚀 Open to collaborating on **innovative projects** focusing on **scalable solutions**.  
-- 📫 **How to reach me:**  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragav-r-bb9183308/)  
-[<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RAGAV-24)  
-[<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" />](https://ragavs-profile.netlify.app/)
 
----
+### 📈 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulkarthikoff&show_icons=true&theme=radical)
 
-### 🛠️ **Technical Skills**
-**Languages:** JavaScript, Java, HTML, CSS  
-**Frameworks:** React.js, Node.js  
-**Libraries:** React Router  
-**Databases:** MongoDB, MySQL  
-**DevTools:** VS Code, Git, Docker, AWS  
+### 🌱 Contributions
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rahulkarthikoff&theme=react-dark)
 
----
 
-### 🚀 **Projects**
-- **[OD Claimer Website](https://od-claimer.vercel.app/)** - MERN stack-based OD claiming platform with teacher and student role management.  
-- **[Lung Cancer Prediction](https://lung-52lzsr7jt-ragav-rs-projects.vercel.app/)** - AI-powered prediction system built with React and Python.  
-- **[Earthquake Analysis Dashboard](https://github.com/RAGAV-24/PowerBI-Earthquake-Analysis)** - Real-time earthquake data visualization using Power BI.  
-- **[Sentiment Analysis Tool](https://sentiment-analysis-ivory.vercel.app/)** - Flask-based web app for sentiment prediction.  
-- **[Nursery Website](https://nursery-website-using-react-q4uv0mor6-ragav-rs-projects.vercel.app/)** - Platform for farmers to directly sell products.  
-- **[AI-Powered Interview Tool](https://ai-master.vercel.app)** - Built using React, Tailwind CSS, and Groq API for real-time interview questions.  
+### 📫 Contact Me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rahulkarthikeyanoff)
+- Leetcode: [Your Leetcode Handle](https://leetcode.com/u/rahuldarsh2005/)
 
----
 
-### 💻 **Workspace Spec**
-<img height="30" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
----
+## GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulkarthikoff&show_icons=true&theme=radical)
 
-### 📊 **Stats & Activity**
-![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGAV-24&theme=radical&show_icons=true)  
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ragav_R?theme=dark&ext=contest)](https://leetcode.com/Ragav_R/)
+## LeetCode
+I'm active on LeetCode, solving problems regularly. Check out my profile and problem-solving streaks!  
 
----
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rahuldarsh2005/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rahuldarsh2005?theme=dark&font=Poppins&ext=contest" alt="Rahul LeetCode Stats"/>
+</p>
+<br/>
+<hr/>
 
-### 🏆 **Certifications**
-- **[AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/b2326dd9-5842-4235-b54d-ab46b4680b78/public_url)**  
 
----
+## Let's Connect
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/rahulkarthikeyanoff) or via email at rahulkarthikoff@gmail.com!
 
-### 📜 **Achievements**
-- 🥇 Ideathon Finalist  
-- 🥇 AI-Hack Finalist  
-- 🥇 HackSphere Finalist  
-- 💻 LeetCode 300+ problems solved  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
----
+<!--
+**Rahulkarthikoff/Rahulkarthikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### 📂 Featured Projects
+- [Plant Disease Detector 🌿](https://github.com/Karrhik/plant-disease-detector) - A project that uses machine learning to detect plant diseases.
+- [Smart Parking System 🚗](https://github.com/Karrhik/smart-parking-system) - Tracks vehicle slots and detects parking issues.
+-->
